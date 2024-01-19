@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Name - Naveen Menariya<br>
 ## B-tech at  Amrita Vishwa Vidhyapeetham (computer science).
-## Java Dsa Certification from Apna collage.
+## Java DSA Certification from Apna collage.
 ## TCS communication skill certification.<br>Hacker Rank skill certificate
 
 
