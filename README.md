@@ -1,5 +1,4 @@
-# About Me:
-## Name - Naveen Menariya<br>
+# Naveen Menariya<br>
 ## Computer Science Student.
 
 ### 🔝 Top Contributed Repo
